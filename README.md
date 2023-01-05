@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ServerSMP-Github/Slimefun-Textures">
-    <img src="https://raw.githubusercontent.com/ServerSMP-Github/Slimefun-Textures/readme/icon.png" alt="SFT-logo">
+    <img src="./icon.png" alt="SFT-logo">
   </a>
 </p>
 
