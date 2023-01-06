@@ -22,13 +22,15 @@ jobs:
       with:
         type: 'zip'
         filename: 'slimefun-textures-light.zip'
-        exclusions: '*.git* darkmode_*'
+        exclusions: '*.git*'
+        recursive_exclusions: 'darkmode_*'
     - name: Archive Release (DARK)
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
         filename: 'slimefun-textures-dark.zip'
-        exclusions: '*.git* lightmode_*'
+        exclusions: '*.git*'
+        recursive_exclusions: 'lightmode_*' 
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
