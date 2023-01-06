@@ -16,6 +16,7 @@ jobs:
       with:
         type: 'zip'
         filename: 'slimefun-textures.zip'
+        exclusions: '*.git*'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
