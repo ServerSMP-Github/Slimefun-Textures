@@ -22,15 +22,13 @@ jobs:
       with:
         type: 'zip'
         filename: 'slimefun-textures-light.zip'
-        exclusions: '*.git*'
-        recursive_exclusions: 'darkmode_*'
+        exclusions: '*.git* /assets/minecraft/optifine/cit/slimefun/gui/default/dark/*'
     - name: Archive Release (DARK)
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
         filename: 'slimefun-textures-dark.zip'
-        exclusions: '*.git*'
-        recursive_exclusions: 'lightmode_*' 
+        exclusions: '*.git* /assets/minecraft/optifine/cit/slimefun/gui/default/light/*'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
