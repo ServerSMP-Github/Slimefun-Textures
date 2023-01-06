@@ -12,11 +12,10 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Get next version
-      uses: reecetech/version-increment@2022.10.3
+    - uses: fwilhe2/bump-version@main
       id: version
       with:
-        scheme: semver
-        increment: major
+        component: minor
     - name: Archive Release (light)
       uses: thedoctor0/zip-release@main
       with:
@@ -34,4 +33,4 @@ jobs:
       with:
         artifacts: "slimefun-textures-light.zip,slimefun-textures-dark.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: ${{ steps.version.outputs.version }}
+        tag: ${{ steps.version.outputs.newVersion }}
