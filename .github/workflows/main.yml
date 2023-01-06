@@ -11,6 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - name: Set Version
+      uses: hmanzur/actions-set-secret@v2.0.0
+      with:
+        name: 'VERSION'
+        value: ${{ secrets.VERSION }} + 1
+        repository: 'Slimefun-Textures'
+        token: ${{ secrets.REPO_ACCESS_TOKEN }}
+        org: true
+        visibility: 'all'
     - name: Archive Release
       uses: thedoctor0/zip-release@main
       with:
