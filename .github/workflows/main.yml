@@ -22,4 +22,4 @@ jobs:
       with:
         artifacts: "slimefun-textures.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: "automated-release"
+        tag: ${{ secrets.VERSION }}
