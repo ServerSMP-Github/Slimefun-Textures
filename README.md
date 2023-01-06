@@ -18,7 +18,7 @@
 ### Textures taken/modified from the following texture packs:
 
 - [Speebro](https://www.planetminecraft.com/texture-pack/sealfun-resources/)
-- [Speebro Magical](https://www.planetminecraft.com/texture-pack/sealfun-magical/)
+- [Speebro (Magical)](https://www.planetminecraft.com/texture-pack/sealfun-magical/)
 - [Roracle](https://github.com/roracle/SF-resources/releases/tag/0.01-beta)
 - [Raulh22](https://www.planetminecraft.com/texture-pack/slimefun-texture-by-raulh22/)
 - [54m44r](https://github.com/54M44R/Slimefun-Networks-Visualizer)
