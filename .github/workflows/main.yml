@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@master
 
     - name: Get next version
-    - uses: fwilhe2/bump-version@main
+      uses: fwilhe2/bump-version@main
       id: version
       with:
         component: minor
