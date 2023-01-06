@@ -16,14 +16,14 @@ jobs:
       id: version
       with:
         scheme: semver
-        increment: patch
-    - name: Archive Release (LIGHT)
+        increment: major
+    - name: Archive Release (light)
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
         filename: 'slimefun-textures-light.zip'
         exclusions: '*.git* *slimefun-textures-dark.zip /assets/minecraft/optifine/cit/slimefun/gui/default/dark/* /assets/minecraft/optifine/cit/slimefun/gui/cargo/dark/* /assets/minecraft/optifine/cit/networks/gui/dark/*'
-    - name: Archive Release (DARK)
+    - name: Archive Release (dark)
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
