@@ -3,7 +3,8 @@ name: Create Release
 on: 
   push:
     branches: [ "textures" ]
-    tags: [ "v*.*.*" ]
+    tags:
+    - '*'
 
 jobs:
   build:
@@ -20,3 +21,4 @@ jobs:
       with:
         artifacts: "slimefun-textures.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
+        tag: "textures"
