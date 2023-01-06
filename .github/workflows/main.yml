@@ -1,4 +1,4 @@
-name: Create Release (LIGHT)
+name: Create Release
 
 on: 
   push:
