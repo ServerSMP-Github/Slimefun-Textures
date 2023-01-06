@@ -1,5 +1,10 @@
-name: Create Archive
-on: [push]
+name: Create Release
+
+on: 
+  push:
+    branches: [ "v14" ]
+    tags: [ "v*.*.*" ]
+
 jobs:
   build:
     runs-on: ubuntu-latest
