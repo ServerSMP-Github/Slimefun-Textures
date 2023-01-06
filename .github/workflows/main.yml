@@ -16,7 +16,7 @@ jobs:
       uses: fwilhe2/bump-version@main
       id: version
       with:
-        component: minor
+        component: ${{ secrets.VERSION }}
 
     - name: Archive Release (light)
       uses: thedoctor0/zip-release@main
