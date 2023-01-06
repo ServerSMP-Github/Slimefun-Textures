@@ -9,6 +9,8 @@
 
 <p align="center">A combination texture pack for the mc plugin "slimefun"</p>
 
+<a align="center" href="https://github.com/ServerSMP-Github/Slimefun-Textures-Dark-Mode">Dark Mode</a>
+
 ### Textures taken/modified from the following texture packs:
 
 - [Sealfun Resources](https://www.planetminecraft.com/texture-pack/sealfun-resources/download/file/15698807/)
