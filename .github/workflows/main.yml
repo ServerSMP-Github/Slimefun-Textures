@@ -16,7 +16,7 @@ jobs:
       with:
         name: 'VERSION'
         value: ${{ secrets.VERSION }} + 1
-        repository: 'Slimefun-Textures'
+        repository: 'ServerSMP-Github/Slimefun-Textures'
         token: ${{ secrets.REPO_ACCESS_TOKEN }}
         environment: 'dev'
     - name: Archive Release
