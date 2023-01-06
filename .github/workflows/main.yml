@@ -11,14 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Set Version
-      uses: mmercan/actions-set-secret@v/4.0.0
-      with:
-        name: 'VERSION'
-        value: ${{ secrets.VERSION }} + 1
-        repository: 'ServerSMP-Github'
-        token: ${{ secrets.REPO_ACCESS_TOKEN }}
-        environment: 'dev'
     - name: Archive Release
       uses: thedoctor0/zip-release@main
       with:
