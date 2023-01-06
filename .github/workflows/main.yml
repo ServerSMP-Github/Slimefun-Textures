@@ -1,8 +1,8 @@
-name: Create Release
+name: Create Release (LIGHT)
 
 on: 
   push:
-    branches: [ "textures" ]
+    branches: [ "light" ]
     tags:
     - '*'
 
@@ -28,4 +28,4 @@ jobs:
       with:
         artifacts: "slimefun-textures.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: ${{ steps.version.outputs.version }}
+        tag: "${{ steps.version.outputs.version }}-light"
