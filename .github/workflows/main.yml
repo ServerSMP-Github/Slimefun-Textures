@@ -17,15 +17,21 @@ jobs:
       with:
         scheme: semver
         increment: patch
-    - name: Archive Release
+    - name: Archive Release (LIGHT)
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: 'slimefun-textures.zip'
-        exclusions: '*.git*'
+        filename: 'slimefun-textures-light.zip'
+        exclusions: '*.git* darkmode_*'
+    - name: Archive Release (DARK)
+      uses: thedoctor0/zip-release@main
+      with:
+        type: 'zip'
+        filename: 'slimefun-textures-dark.zip'
+        exclusions: '*.git* lightmode_*'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "slimefun-textures.zip"
+        artifacts: "slimefun-textures-light.zip,slimefun-textures-dark.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: ${{ steps.version.outputs.version }}
