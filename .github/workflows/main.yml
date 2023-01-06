@@ -2,7 +2,7 @@ name: Create Release
 
 on: 
   push:
-    branches: [ "v14" ]
+    branches: [ "textures" ]
     tags: [ "v*.*.*" ]
 
 jobs:
