@@ -10,8 +10,9 @@
 <p align="center">A combination texture pack for the mc plugin "slimefun"</p>
 
 <p align="center">
-  <a href="https://github.com/ServerSMP-Github/Slimefun-Textures">Light</a>
-  <a href="https://github.com/ServerSMP-Github/Slimefun-Textures-Dark-Mode">Dark</a>
+  <a href="https://github.com/ServerSMP-Github/Slimefun-Textures">Light Mode</a>
+  -
+  <a href="https://github.com/ServerSMP-Github/Slimefun-Textures-Dark-Mode">Dark Mode</a>
 </p>
 
 ### Textures taken/modified from the following texture packs:
