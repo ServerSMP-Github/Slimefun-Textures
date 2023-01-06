@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "items/lucky_blocks/pandoras_box"
+    }
+}
