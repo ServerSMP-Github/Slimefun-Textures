@@ -7,9 +7,9 @@
 
 <h3 align="center">Slimefun Textures</h3>
 
+<p align="center">A combination texture pack for the mc plugin "slimefun"</p>
+
 <p align="center">
-  A combination texture pack for the mc plugin "slimefun"
-  
   <a href="https://github.com/ServerSMP-Github/Slimefun-Textures-Dark-Mode">Dark Mode</a>
 </p>
 
