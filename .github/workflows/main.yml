@@ -1,0 +1,31 @@
+name: Create Release
+
+on: 
+  push:
+    branches: [ "textures" ]
+    tags:
+    - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Get next version
+      uses: reecetech/version-increment@2022.10.3
+      id: version
+      with:
+        scheme: semver
+        increment: patch
+    - name: Archive Release
+      uses: thedoctor0/zip-release@main
+      with:
+        type: 'zip'
+        filename: 'slimefun-textures.zip'
+        exclusions: '*.git*'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "slimefun-textures.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
+        tag: ${{ steps.version.outputs.version }}
