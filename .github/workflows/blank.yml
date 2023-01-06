@@ -21,5 +21,5 @@ jobs:
       - uses: fwilhe2/bump-version@main
         id: bump
         with:
-          component: major
+          component: minor
       - run: echo ${{ steps.bump.outputs.newVersion }}
