@@ -17,10 +17,10 @@
 
 <p align="center">
   <i align="center">
-    Requires
+    (Requires
     <a href="https://modrinth.com/mod/cit-resewn">CIT Resewn</a>
     or
-    <a href="https://www.optifine.net/home">Optifine</a>
+    <a href="https://www.optifine.net/home">Optifine</a>)
   </i>
 </p>
 
