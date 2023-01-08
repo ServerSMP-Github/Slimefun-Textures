@@ -15,6 +15,14 @@
   <a href="https://github.com/ServerSMP-Github/Slimefun-Textures/releases/latest/download/slimefun-textures-dark.zip">Dark Mode</a>
 </p>
 
+### Usage:
+
+- Forge
+  - [Optifine](https://www.optifine.net/home)
+  
+- Fabric:
+  -  [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+
 ### Textures taken/modified from the following texture packs:
 
 - [Sealfun Resources](https://www.planetminecraft.com/texture-pack/sealfun-resources/)
