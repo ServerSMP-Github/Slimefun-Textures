@@ -15,14 +15,12 @@
   <a href="https://github.com/ServerSMP-Github/Slimefun-Textures/releases/latest/download/slimefun-textures-dark.zip">Dark Mode</a>
 </p>
 
-*
-<p align="center">
+<i align="center">
   Requires
   <a href="https://modrinth.com/mod/cit-resewn">CIT Resewn</a>
   or
   <a href="https://www.optifine.net/home">Optifine</a>
-</p>
-*
+</i>
 
 ### Textures taken/modified from the following texture packs:
 
