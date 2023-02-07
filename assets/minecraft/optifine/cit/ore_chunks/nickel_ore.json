@@ -2,7 +2,7 @@
     "parent": "item/handheld",
     "author": "Prince527",
     "textures": {
-        "layer0": "items/ore_chunks/nickel_ore"
+        "layer0": "./../items/ore_chunks/nickel_ore"
     },
     "display": {
         "thirdperson_righthand": {

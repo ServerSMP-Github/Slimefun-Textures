@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/slimefun/technical_gadgets/hologram_projector"
+        "layer0": "./../../items/slimefun/technical_gadgets/hologram_projector"
     },
 	"display": {
 		"thirdperson_righthand": {

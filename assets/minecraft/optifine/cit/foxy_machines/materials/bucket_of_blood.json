@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/foxy_machines/materials/bucket_of_blood"
+        "layer0": "./../../items/foxy_machines/materials/bucket_of_blood"
     },
 	"display": {
 		"thirdperson_righthand": {

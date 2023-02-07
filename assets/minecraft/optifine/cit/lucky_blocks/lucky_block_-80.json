@@ -1,8 +1,8 @@
 {
     "parent": "block/cube_bottom_top",
     "textures": {
-        "bottom": "items/lucky_blocks/lucky_block_-80_top",
-        "top": "items/lucky_blocks/lucky_block_-80_top",
-        "side": "items/lucky_blocks/lucky_block_-80"
+        "bottom": "./../items/lucky_blocks/lucky_block_-80_top",
+        "top": "./../items/lucky_blocks/lucky_block_-80_top",
+        "side": "./../items/lucky_blocks/lucky_block_-80"
     }
 }

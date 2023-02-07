@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/slimefun/talisman2/hunter"
+        "layer0": "./../../items/slimefun/talisman2/hunter"
     },
 	"display": {
 		"thirdperson_righthand": {

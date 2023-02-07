@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/slimefun/android/interface_fuel"
+        "layer0": "./../../items/slimefun/android/interface_fuel"
     },
 	"display": {
 		"thirdperson_righthand": {

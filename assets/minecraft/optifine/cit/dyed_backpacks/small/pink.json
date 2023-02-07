@@ -2,7 +2,7 @@
     "parent": "item/handheld",
     "author": "Prince527",
     "textures": {
-        "layer0": "items/dyed_backpacks/small/pink"
+        "layer0": "./../../items/dyed_backpacks/small/pink"
     },
     "display": {
         "thirdperson_righthand": {
