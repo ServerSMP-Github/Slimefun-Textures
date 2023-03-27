@@ -2,6 +2,6 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/tools/soulbound_shovel"
+        "layer0": "./../../items/slimefun/tools/soulbound_shovel"
     }
 }
