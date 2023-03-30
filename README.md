@@ -37,3 +37,4 @@
 - [Next Gen Slimefun](https://www.curseforge.com/minecraft/texture-packs/next-gen-slimefun)
 - [Simple Slimefun Textures](https://www.planetminecraft.com/texture-pack/simple-slimefun-textures/)
 - [Slimefun Beautified](https://github.com/54M44R/Slimefun-Beautified)
+- [Better Spawners](https://www.planetminecraft.com/texture-pack/better-spawners-by-raulh22/)
