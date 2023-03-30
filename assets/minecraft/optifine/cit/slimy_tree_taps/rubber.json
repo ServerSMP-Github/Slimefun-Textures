@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimy_tree_taps/rubber"
+        "layer0": "./../items/slimy_tree_taps/rubber"
     },
 	"display": {
 		"thirdperson_righthand": {
