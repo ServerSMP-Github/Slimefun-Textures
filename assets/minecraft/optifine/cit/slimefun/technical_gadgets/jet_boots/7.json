@@ -2,7 +2,7 @@
   "parent": "item/handheld",
   "author": "RaulH22",
   "textures": {
-    "layer0": "./../../../../items/slimefun/technical_gadgets/jet_boots/7"
+    "layer0": "./../../../items/slimefun/technical_gadgets/jet_boots/7"
   },
   "display": {
     "thirdperson_righthand": {
