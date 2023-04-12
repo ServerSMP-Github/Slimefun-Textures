@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/magical_gadgets/elytra_scale"
+        "layer0": "assets/minecraft/optifine/cit/items/magical_gadgets/elytra_scale"
     },
 	"display": {
 		"thirdperson_righthand": {

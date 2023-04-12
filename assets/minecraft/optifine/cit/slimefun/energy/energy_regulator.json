@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/energy/energy_regulator"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/energy/energy_regulator"
     },
 	"display": {
 		"thirdperson_righthand": {

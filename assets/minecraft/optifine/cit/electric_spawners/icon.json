@@ -2,7 +2,7 @@
     "parent": "item/handheld",
     "author": "Prince527",
     "textures": {
-        "layer0": "./../items/electric_spawners/icon"
+        "layer0": "assets/minecraft/optifine/cit/items/electric_spawners/icon"
     },
     "display": {
         "thirdperson_righthand": {

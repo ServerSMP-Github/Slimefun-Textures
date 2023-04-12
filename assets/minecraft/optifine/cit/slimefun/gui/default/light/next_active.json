@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../../../items/slimefun/gui/default/next_on"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/gui/default/next_on"
     },
 	"display": {
 		"gui": {

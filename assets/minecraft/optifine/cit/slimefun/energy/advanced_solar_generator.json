@@ -1,7 +1,7 @@
 {
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/energy/advanced_solar_generator"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/energy/advanced_solar_generator"
     },
 	"elements": [
 		{

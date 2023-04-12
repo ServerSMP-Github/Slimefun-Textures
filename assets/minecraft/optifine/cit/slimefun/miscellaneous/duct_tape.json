@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/miscellaneous/duct_tape"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/miscellaneous/duct_tape"
     },
 	"display": {
 		"thirdperson_righthand": {

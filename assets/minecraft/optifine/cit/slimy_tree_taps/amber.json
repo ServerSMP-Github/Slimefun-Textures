@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../items/slimy_tree_taps/amber"
+        "layer0": "assets/minecraft/optifine/cit/items/slimy_tree_taps/amber"
     },
 	"display": {
 		"thirdperson_righthand": {

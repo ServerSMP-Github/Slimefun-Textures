@@ -2,7 +2,7 @@
     "parent": "item/handheld",
     "author": "54M44R",
     "textures": {
-        "layer0": "./../../../items/networks/gui/west_on_dark"
+        "layer0": "assets/minecraft/optifine/cit/items/networks/gui/west_on_dark"
     },
 	"display": {
 		"gui": {

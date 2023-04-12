@@ -2,8 +2,8 @@
     "parent": "minecraft:block/glass",
 	"author": "RaulH22",
     "textures": {
-        "particle": "./../../items/slimefun/technical_components/hardened_glass",
-        "texture": "./../../items/slimefun/technical_components/hardened_glass"
+        "particle": "assets/minecraft/optifine/cit/items/slimefun/technical_components/hardened_glass",
+        "texture": "assets/minecraft/optifine/cit/items/slimefun/technical_components/hardened_glass"
     },
 	"elements": [
 		{

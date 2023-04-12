@@ -2,8 +2,8 @@
     "parent": "minecraft:block/obsidian",
 	"author": "RaulH22",
     "textures": {
-        "particle": "./../../items/slimefun/gps/teleporter_matrix",
-        "texture": "./../../items/slimefun/gps/teleporter_matrix"
+        "particle": "assets/minecraft/optifine/cit/items/slimefun/gps/teleporter_matrix",
+        "texture": "assets/minecraft/optifine/cit/items/slimefun/gps/teleporter_matrix"
     },
 	"elements": [
 		{

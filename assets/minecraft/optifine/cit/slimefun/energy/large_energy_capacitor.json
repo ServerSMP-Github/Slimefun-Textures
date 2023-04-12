@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/energy/large_energy_capacitor"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/energy/large_energy_capacitor"
     },
 	"display": {
 		"thirdperson_righthand": {

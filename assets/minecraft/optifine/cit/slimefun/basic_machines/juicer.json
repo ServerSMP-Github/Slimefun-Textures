@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/basic_machines/juicer"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/basic_machines/juicer"
     },
 	"display": {
 		"thirdperson_righthand": {

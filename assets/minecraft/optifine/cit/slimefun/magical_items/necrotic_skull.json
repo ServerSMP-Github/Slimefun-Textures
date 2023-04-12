@@ -1,8 +1,8 @@
 {
 	"__comment": "By: RaulH22",
 	"textures": {
-		"particle": "./../../items/slimefun/magical_items/necrotic_skull",
-		"texture": "./../../items/slimefun/magical_items/necrotic_skull"
+		"particle": "assets/minecraft/optifine/cit/items/slimefun/magical_items/necrotic_skull",
+		"texture": "assets/minecraft/optifine/cit/items/slimefun/magical_items/necrotic_skull"
 	},
 	"elements": [
 		{

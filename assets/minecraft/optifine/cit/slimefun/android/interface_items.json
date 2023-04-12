@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/android/interface_items"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/android/interface_items"
     },
 	"display": {
 		"thirdperson_righthand": {

@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../../items/slimefun/resources/valuables/raw_carbonado"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/resources/valuables/raw_carbonado"
     },
 	"display": {
 		"thirdperson_righthand": {

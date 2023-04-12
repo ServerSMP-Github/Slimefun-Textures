@@ -2,7 +2,7 @@
   "parent": "item/handheld",
   "author": "RaulH22",
   "textures": {
-    "layer0": "./../items/electric_spawners/pig"
+    "layer0": "assets/minecraft/optifine/cit/items/electric_spawners/pig"
   },
   "display": {
     "thirdperson_righthand": {

@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/magical_items/broken_spawner/item"
+        "layer0": "./../../../items/slimefun/magical_items/broken_spawner/item"
     },
 	"display": {
 		"thirdperson_righthand": {

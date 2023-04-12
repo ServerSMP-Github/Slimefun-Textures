@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/foxy_machines/sacrificial_altar/blood"
+        "layer0": "assets/minecraft/optifine/cit/items/foxy_machines/sacrificial_altar/blood"
     },
 	"display": {
 		"thirdperson_righthand": {

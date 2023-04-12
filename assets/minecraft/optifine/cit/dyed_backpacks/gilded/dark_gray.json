@@ -2,7 +2,7 @@
     "parent": "item/handheld",
     "author": "Prince527",
     "textures": {
-        "layer0": "./../../items/dyed_backpacks/gilded/dark_gray"
+        "layer0": "assets/minecraft/optifine/cit/items/dyed_backpacks/gilded/dark_gray"
     },
     "display": {
         "thirdperson_righthand": {

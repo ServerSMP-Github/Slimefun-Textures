@@ -2,7 +2,7 @@
   "parent": "item/handheld",
   "author": "RaulH22",
   "textures": {
-    "layer0": "./../items/electric_spawners/spider"
+    "layer0": "assets/minecraft/optifine/cit/items/electric_spawners/spider"
   },
   "display": {
     "thirdperson_righthand": {

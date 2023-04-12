@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../../items/slimefun/resources/ingots/ferrosilicon"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/resources/ingots/ferrosilicon"
     },
 	"display": {
 		"thirdperson_righthand": {

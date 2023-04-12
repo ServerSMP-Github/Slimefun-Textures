@@ -1,8 +1,8 @@
 {
     "parent": "block/cube_bottom_top",
     "textures": {
-        "bottom": "./../items/lucky_blocks/very_lucky_block_top",
-        "top": "./../items/lucky_blocks/very_lucky_block_top",
-        "side": "./../items/lucky_blocks/very_lucky_block"
+        "bottom": "assets/minecraft/optifine/cit/items/lucky_blocks/very_lucky_block_top",
+        "top": "assets/minecraft/optifine/cit/items/lucky_blocks/very_lucky_block_top",
+        "side": "assets/minecraft/optifine/cit/items/lucky_blocks/very_lucky_block"
     }
 }

@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/magical_gadgets/elemental_staff"
+        "layer0": "assets/minecraft/optifine/cit/items/magical_gadgets/elemental_staff"
     },
 	"display": {
 		"thirdperson_righthand": {

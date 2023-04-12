@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../../../items/slimefun/gui/default/dark_pane_gray"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/gui/default/dark_pane_gray"
     },
 	"display": {
 		"gui": {

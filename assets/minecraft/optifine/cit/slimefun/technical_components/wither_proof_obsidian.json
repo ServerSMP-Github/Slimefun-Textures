@@ -2,8 +2,8 @@
     "parent": "minecraft:block/obsidian",
 	"author": "RaulH22",
     "textures": {
-        "particle": "./../../items/slimefun/technical_components/wither_proof_obsidian",
-        "texture": "./../../items/slimefun/technical_components/wither_proof_obsidian"
+        "particle": "assets/minecraft/optifine/cit/items/slimefun/technical_components/wither_proof_obsidian",
+        "texture": "assets/minecraft/optifine/cit/items/slimefun/technical_components/wither_proof_obsidian"
     },
 	"elements": [
 		{

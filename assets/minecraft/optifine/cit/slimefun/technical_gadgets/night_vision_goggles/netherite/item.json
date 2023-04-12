@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../../../items/slimefun/technical_gadgets/night_vision_goggles/item"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/technical_gadgets/night_vision_goggles/item"
     },
 	"display": {
 		"thirdperson_righthand": {

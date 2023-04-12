@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/energy/auto_disenchanter"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/energy/auto_disenchanter"
     },
 	"display": {
 		"thirdperson_righthand": {

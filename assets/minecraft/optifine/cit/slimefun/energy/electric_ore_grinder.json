@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/energy/electric_ore_grinder"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/energy/electric_ore_grinder"
     },
 	"display": {
 		"thirdperson_righthand": {

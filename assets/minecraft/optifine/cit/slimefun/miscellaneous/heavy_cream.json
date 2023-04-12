@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/miscellaneous/heavy_cream"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/miscellaneous/heavy_cream"
     },
 	"display": {
 		"thirdperson_righthand": {

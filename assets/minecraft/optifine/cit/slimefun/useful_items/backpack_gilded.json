@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "./../../items/slimefun/useful_items/backpack_gilded"
+        "layer0": "assets/minecraft/optifine/cit/items/slimefun/useful_items/backpack_gilded"
     },
 	"display": {
 		"thirdperson_righthand": {

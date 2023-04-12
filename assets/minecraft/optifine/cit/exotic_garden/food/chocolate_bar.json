@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "../../items/exotic_garden/food/chocolate_bar"
+        "layer0": "assets/minecraft/optifine/cit/items/exotic_garden/food/chocolate_bar"
     },
 	"display": {
 		"thirdperson_righthand": {

@@ -2,8 +2,8 @@
     "parent": "minecraft:block/purple_stained_glass",
 	"author": "RaulH22",
     "textures": {
-        "particle": "./../../items/slimefun/technical_components/wither_proof_glass",
-        "texture": "./../../items/slimefun/technical_components/wither_proof_glass"
+        "particle": "assets/minecraft/optifine/cit/items/slimefun/technical_components/wither_proof_glass",
+        "texture": "assets/minecraft/optifine/cit/items/slimefun/technical_components/wither_proof_glass"
     },
 	"elements": [
 		{

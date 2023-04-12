@@ -2,7 +2,7 @@
     "parent": "item/handheld",
     "author": "Prince527",
     "textures": {
-        "layer0": "./../items/ore_chunks/magnesium_ore"
+        "layer0": "assets/minecraft/optifine/cit/items/ore_chunks/magnesium_ore"
     },
     "display": {
         "thirdperson_righthand": {
