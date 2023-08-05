@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "assets/minecraft/optifine/cit/items/supreme/weapons/supreme_axe"
+        "layer0": "assets/minecraft/optifine/cit/items/supreme/tools/supreme_axe"
     },
 	"display": {
 		"thirdperson_righthand": {

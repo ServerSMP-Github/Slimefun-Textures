@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "assets/minecraft/optifine/cit/items/supreme/weapons/supreme_pickaxe"
+        "layer0": "assets/minecraft/optifine/cit/items/supreme/tools/supreme_pickaxe"
     },
 	"display": {
 		"thirdperson_righthand": {
