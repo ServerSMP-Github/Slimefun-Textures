@@ -7,4 +7,4 @@
 
 <h3 align="center">Slimefun Textures</h3>
 
-<p align="center">A combination texture pack for the mc plugin "slimefun", now using <a href="https://modrinth.com/mod/chime">Chime</a></p>
+<p align="center">A combination texture pack for the mc plugin "slimefun", now using <a href="https://modrinth.com/mod/chime">Chime</a>.</p>
