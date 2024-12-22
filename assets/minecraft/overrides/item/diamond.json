@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_synthetic_diamond"
+    }
+  ]
+}

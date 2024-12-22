@@ -1,0 +1,84 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "IRON_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_iron_dust"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEAD_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_lead_dust"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PULVERIZED_ORE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_pulverized_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PURE_ORE_CLUSTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_pure_ore_cluster"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CRUSHED_ORE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_crushed_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SIFTED_ORE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_sifted_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ESSENCE_OF_AFTERLIFE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_essence_of_afterlife"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Void Dust"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

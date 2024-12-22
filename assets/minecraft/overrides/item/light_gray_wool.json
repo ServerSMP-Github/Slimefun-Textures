@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "iregex:(.*: 9.*)"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

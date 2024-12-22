@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HOLOGRAM_PROJECTOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_hologram_projector"
+    }
+  ]
+}

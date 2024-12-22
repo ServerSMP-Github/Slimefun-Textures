@@ -1,0 +1,74 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STEEL_MULTI_TOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_multi_tool_iv"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOLDER_MULTI_TOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_multi_tool_ii"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARBONADO_MULTI_TOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_multi_tool_vii"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "REINFORCED_ALLOY_MULTI_TOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_multi_tool_vi"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DAMASCUS_STEEL_MULTI_TOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_multi_tool_v"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BILLON_MULTI_TOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_multi_tool_iii"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DURALUMIN_MULTI_TOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_multi_tool_i"
+    }
+  ]
+}

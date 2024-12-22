@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SYNTHETIC_SHULKER_SHELL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_synthetic_shulker_shell"
+    }
+  ]
+}

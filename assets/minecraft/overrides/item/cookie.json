@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FORTUNE_COOKIE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_food_fortune_cookie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "KELP_COOKIE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_food_kelp_cookie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DIET_COOKIE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_food_diet_cookie"
+    }
+  ]
+}

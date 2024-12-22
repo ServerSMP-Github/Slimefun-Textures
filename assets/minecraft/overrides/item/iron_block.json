@@ -1,0 +1,104 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_TELEPORTATION_MATRIX"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_teleporter_matrix"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Redstone Transmitter"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Bedrock Breaker"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Lead Singularity"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Zinc Singularity"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Silver Singularity"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Iron Singularity"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Machine Core"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Tin Singularity"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Aluminum Singularity"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

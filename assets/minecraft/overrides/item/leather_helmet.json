@@ -1,0 +1,124 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Cactus *"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Cactus *"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Scuba Helmet"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Scuba Helmet"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NIGHT_VISION_GOGGLES"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_gadgets_night_vision_goggles_item"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Ender *"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Ender *"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Farmer Shoes"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Glowstone *"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Glowstone *"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Copper Helmet"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Copper Helmet"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

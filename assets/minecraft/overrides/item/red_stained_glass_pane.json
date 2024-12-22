@@ -1,0 +1,64 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:*Set Direction: East"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:*Set Direction: South"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:*Set Direction: Up"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:*Set Direction: Down"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:*Set Direction: West"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:*Set Direction: North"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

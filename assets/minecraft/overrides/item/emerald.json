@@ -1,0 +1,354 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SYNTHETIC_EMERALD"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_synthetic_emerald"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_KNIGHT_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_knight"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_CAVEMAN_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_caveman"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_HUNTER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_hunter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_WIZARD_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_wizard"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_WATER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_water_breather"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_0_default"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_MAGICIAN_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_magican"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_FARMER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_0_default"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_LAVA_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_lava_walker"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_WHIRLWIND_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_whirlwind"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_FIRE_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_firefighter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_WISE_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_0_default"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_ANVIL_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_anvil"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_ANGEL_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_angel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_MINER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_miner"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_WARRIOR_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_warrior"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_TRAVELLER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman2_traveller"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "KNIGHT_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_knight"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CAVEMAN_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_caveman"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HUNTER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_hunter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WIZARD_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_wizard"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WATER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_water_breather"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGICIAN_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_magican"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FARMER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_0_default"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LAVA_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_lava_walker"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WHIRLWIND_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_whirlwind"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FIRE_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_firefighter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WISE_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_0_default"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANVIL_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_anvil"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANGEL_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_angel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MINER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_miner"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WARRIOR_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_warrior"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TRAVELLER_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_talisman1_traveller"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COMMON_TALISMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_common_talisman"
+    }
+  ]
+}

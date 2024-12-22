@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Gilded Iron *"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Gilded Iron Helmet*"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

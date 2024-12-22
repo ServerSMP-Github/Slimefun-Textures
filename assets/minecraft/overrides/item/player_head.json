@@ -1,0 +1,4134 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COAL_GENERATOR_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_coal_generator2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COAL_GENERATOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_coal_generator"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENERGY_CONNECTOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_energy_connector"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "XP_COLLECTOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_exp_collector"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LAVA_GENERATOR_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_lava_generator2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MEDIUM_CAPACITOR"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARBONADO_EDGED_CAPACITOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_carbonado_edged_energy_capacitor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LARGE_CAPACITOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_large_energy_capacitor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COMBUSTION_REACTOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_combustion_reactor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LAVA_GENERATOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_lava_generator"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENERGY_REGULATOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_energy_regulator"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_PRESS_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_electric_press2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SMALL_CAPACITOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_small_energy_capacitor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENERGIZED_CAPACITOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_energized_energy_capacitor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BIG_CAPACITOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_big_energy_capacitor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NUCLEAR_REACTOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_nuclear_reactor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_PRESS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_electric_press"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGNESIUM_GENERATOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_magnesium_generator"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NETHERSTAR_REACTOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_nether_star_reactor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COMPRESSED_CARBON"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_compressed_carbon"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RAW_CARBONADO"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_raw_carbonado"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARBON"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_carbon"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NETHER_ICE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_nether_ice"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARBONADO"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_carbonado"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENRICHED_NETHER_ICE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_enriched_nether_ice"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARBON_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_carbon_chunk"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SYNTHETIC_SAPPHIRE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_synthetic_sapphire"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NEPTUNIUM"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_radioactive_materials_neptunium"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PLUTONIUM"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_radioactive_materials_plutonium"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "URANIUM"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_radioactive_materials_uranium"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BOOSTED_URANIUM"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_radioactive_materials_boosted_uranium"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BUCKET_OF_FUEL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_fuel_fuel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BUCKET_OF_OIL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_fuel_oil"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_TRANSMITTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_transmitter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_TRANSMITTER_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_transmitter_advanced"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_CONTROL_PANEL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_control_panel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "OIL_PUMP"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_oil_pump"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_TRANSMITTER_3"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_transmitter_energized"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_GEO_SCANNER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_geo_scanner"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_TRANSMITTER_4"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_transmitter_carbonado"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_EMERGENCY_TRANSMITTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_emergency_transmitter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GEO_MINER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_geo_miner"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "POWER_CRYSTAL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_powered_crystal"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COOLING_UNIT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_cooling_unit"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "REACTOR_COLLANT_CELL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_reactor_coolant_cell"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANDROID_MEMORY_CORE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_android_memory_core"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HEATING_COIL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_heating_coil"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRO_MAGNET"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_electromagnet"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_MOTOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_electric_motor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NETHER_ICE_COOLANT_CELL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_nether_ice_coolant_cell"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGNET"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_magnet"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BATTERY"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_battery"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BOUND_BACKPACK"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_backpack_soulbound"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_BACKPACK"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_backpack_ender"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "INFUSED_MAGNET"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_infused_magnet"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STONE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_stone_chunk"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TINY_URANIUM"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_tiny_pile_of_uranium"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BUTTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_butter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHEESE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_cheese"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SMALL_URANIUM"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_small_chunk_of_uranium"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_tin_can"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DUCT_TAPE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_duct_tape"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_SWEET_BERRIES"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_sweet_berries"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_SEEDS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_seeds"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_KELP"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_dried_kelp"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_MELON"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_melon"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_COCOA"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_cocoa_beans"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_CARROT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_carrots"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_WHEAT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_wheat"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_POTATO"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_potatoes"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_APPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_apple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERTILIZER_BEETROOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_fertilizer_beetroot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_SWEET_BERRIES"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_sweet_berries"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_SEEDS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_seeds"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_KELP"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_dried_kelp"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_MELON"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_melon"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_COCOA"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_cocoa_beans"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_CARROT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_carrots"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_WHEAT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_wheat"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_POTATO"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_potatoes"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_APPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_apple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORGANIC_FOOD_BEETROOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_organic_food_beetroot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TRASH_CAN_BLOCK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_cargo_trash"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARGO_NODE_OUTPUT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_cargo_output"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARGO_MOTOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_cargo_motor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARGO_NODE_INPUT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_cargo_input"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARGO_NODE_OUTPUT_ADVANCED"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_cargo_output2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARGO_MANAGER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_cargo_manager"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARGO_NODE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_cargo_connector"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "iregex:(.*Previous Channel.*)"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "iregex:(.*Next Channel.*)"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_FISHERMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_fisherman"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_FARMER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_farmer"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_WOODCUTTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_woodcutter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_MINER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_miner"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_BUTCHER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_butcher"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_normal"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_2_FISHERMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_advanced_fisherman"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_2_FARMER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_advanced_farmer"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_2_BUTCHER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_advanced_butcher"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_advanced_normal"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_3_FISHERMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_empowered_fisherman"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_3_BUTCHER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_empowered_butcher"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PROGRAMMABLE_ANDROID_3"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_empowered_normal"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COOLER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_cooler"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MEDIUM_BACKPACK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_backpack"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SMALL_BACKPACK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_backpack_small"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PORTABLE_CRAFTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_portable_crafting_table"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RADIANT_BACKPACK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_backpack_radiant"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WOVEN_BACKPACK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_backpack_woven"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TAPE_MEASURE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_tape_measure"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GILDED_BACKPACK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_backpack_gilded"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PORTABLE_DUSTBIN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_portable_dustbin"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LARGE_BACKPACK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_backpack_large"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NECROTIC_SKULL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_necrotic_skull"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LAVA_CRYSTAL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_lava_crystal"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PANDORAS_BOX"
+          }
+        }
+      },
+      "model": "minecraft:item/lucky_blocks_pandoras_box"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LUCKY_BLOCK_LUCKY"
+          }
+        }
+      },
+      "model": "minecraft:item/lucky_blocks_lucky_block"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LUCKY_BLOCK"
+          }
+        }
+      },
+      "model": "minecraft:item/lucky_blocks_very_lucky_block"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LUCKY_BLOCK_UNLUCKY"
+          }
+        }
+      },
+      "model": "minecraft:item/lucky_blocks_unlucky_lucky_block"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Thorium"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Drill Head"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Iodine Charge"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Dissipation Charge"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Laser Charge"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Empty Capsule"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Dyed Backpacks"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_RED"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_red"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_YELLOW"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_yellow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_PINK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_pink"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_MAGENTA"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_magenta"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_WHITE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_white"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_LIGHT_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_light_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_LIGHT_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_light_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_BLACK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_black"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_CYAN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_cyan"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_BROWN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_brown"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_GREEN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_green"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_DARK_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_dark_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_ORANGE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_orange"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_PURPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_purple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_WOVEN_BACKPACK_LIME"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_woven_lime"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_RED"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_red"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_YELLOW"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_PINK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_yellow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_MAGENTA"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_magenta"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_WHITE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_white"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_LIGHT_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_light_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_LIGHT_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_light_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_BLACK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_black"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_CYAN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_cyan"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_BROWN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_brown"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_GREEN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_green"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_DARK_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_dark_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_ORANGE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_orange"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_PURPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_purple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_GILDED_BACKPACK_LIME"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_gilded_lime"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_RED"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_red"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_YELLOW"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_yellow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_PINK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_pink"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_MAGENTA"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_magenta"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_WHITE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_white"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_LIGHT_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_light_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_LIGHT_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_light_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_BLACK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_black"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_CYAN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_cyan"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_BROWN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_brown"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_GREEN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_green"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_DARK_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_dark_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_ORANGE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_orange"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_PURPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_purple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_MEDIUM_BACKPACK_LIME"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_normal_lime"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_RED"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_red"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_YELLOW"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_yellow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_PINK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_pink"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_MAGENTA"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_magenta"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_WHITE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_white"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_LIGHT_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_light_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_LIGHT_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_light_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_BLACK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_black"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_CYAN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_cyan"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_BROWN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_brown"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_GREEN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_green"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_DARK_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_dark_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_ORANGE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_orange"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_PURPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_purple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_LARGE_BACKPACK_LIME"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_large_lime"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_RED"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_red"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_YELLOW"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_yellow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_PINK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_pink"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_MAGENTA"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_magenta"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_WHITE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_white"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_LIGHT_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_light_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_LIGHT_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_light_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_BLACK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_black"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_CYAN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_cyan"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_BROWN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_brown"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_GREEN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_green"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_DARK_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_dark_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_ORANGE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_orange"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_PURPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_purple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_RADIANT_BACKPACK_LIME"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_radiant_lime"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_RED"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_red"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_YELLOW"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_yellow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_PINK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_pink"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_MAGENTA"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_magenta"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_WHITE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_white"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_LIGHT_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_light_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_LIGHT_BLUE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_light_blue"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_BLACK"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_black"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_CYAN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_cyan"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_BROWN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_brown"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_GREEN"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_green"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_DARK_GRAY"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_dark_gray"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_ORANGE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_orange"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_PURPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_purple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DYED_SMALL_BACKPACK_LIME"
+          }
+        }
+      },
+      "model": "minecraft:item/dyed_backpacks_small_lime"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_PIG"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_pig"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Electric Spawners"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_OCELOT"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_ocelot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_GUARDIAN"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_guardian"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_SKELETON"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_skeleton"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_SQUID"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_squid"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_ZOMBIE"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_zombie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_MUSHROOM_COW"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_mushroom_cow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_ENDERMITE"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_endermite"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_COW"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_cow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_ENDERMAN"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_enderman"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_CHICKEN"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_chicken"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_WOLF"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_wolf"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_CAVE_SPIDER"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_cave_spider"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_BLAZE"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_blaze"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_SHEEP"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_sheep"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_WITCH"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_whitch"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_MAGMA_CUBE"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_magma_cube"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_HORSE"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_horse"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_VILLAGER"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_villager"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_SILVERFISH"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_silverfish"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_SLIME"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_slime"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_CREEPER"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_creeper"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_RABBIT"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_rabbit"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_GHAST"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_ghast"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_WITHER_SKELETON"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_wither_skeleton"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_IRON_GOLEM"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_iron_golem"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELECTRIC_SPAWNER_SPIDER"
+          }
+        }
+      },
+      "model": "minecraft:item/electric_spawners_spider"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEAD_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_lead_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ZINC_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_zinc_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SILVER_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_silver_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "IRON_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_iron_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NICKEL_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_nickel_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGNESIUM_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_magnesium_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TIN_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_tin_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COPPER_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_copper_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ALUMINUM_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_aluminum_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Ore Chunks"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COBALT_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_cobalt_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_ORE_CHUNK"
+          }
+        }
+      },
+      "model": "minecraft:item/ore_chunks_gold_ore"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:\\u00a7aExotic Garden - Drinks"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:hot chocolate"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:pinacolada"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:sweetened tea"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ICE_CUBE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_ice_cube"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAYO"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_mayo"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BROWN_SUGAR"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_brown_sugar"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COUNTRY_GRAVY"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_country_gravy"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "VEGETABLE_OIL"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_vegetable_oil"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MOLASSES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_molasses"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "YEAST"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_yeast"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MUSTARD"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_mustard"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BBQ_SAUCE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_bbq_sauce"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:pineapple"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Garlic"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:raspberry"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:tea leaf"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:cowberry"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:elderberry"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:\\u00a7aExotic Garden - Plants and Fruits"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:plum"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:pomegranate"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:lettuce"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Dragon fruit"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:lemon"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:sweet potato"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Cilantro"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:cherry"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Onion"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:pear"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:corn"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:blueberry"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:cabbage"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:peach"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:grape"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:coconut"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:mustard seed"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:strawberry"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:blackberry"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:orange"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "OAK_APPLE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_plants_and_fruits_oak_apple"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:tomato"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:lime"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Curry Leaf"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Black Pepper"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:cranberry"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLT"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEAFY_CHICKEN_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_leafy_chicken_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SWEET_POTATO_PIE_TMP"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DELUXE_CHEESEBURGER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_deluxe_cheeseburger"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LAMINGTON"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_lamington"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WAFFLES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_waffles"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PANCAKES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_pancakes"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SWEET_POPCORN"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_sweet_popcorn"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SHEPARDS_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_shepards_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CLUB_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_club_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PAVLOVA"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_pavlova"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHOCOLATE_CAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chocolate_cake"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CARROT_CAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_carrot_cake"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FRIES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_fries"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLUEBERRY_MUFFIN"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_blueberry_muffin"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELDERBERRY_JELLY_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_elderberry_jelly_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BACON_WRAPPED_CHEESE_FILLED_HOT_DOG"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_bacon_wrapped_cheese_filled_hot_dog"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BACON_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_bacon_sandwich.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DRAGON_FRUIT_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_dragon_fruit_pie.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STRAWBERRY_SALAD"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_strawberry_salad.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TIRAMISU_WITH_STRAWBERRIES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_tiramisu_with_strawberries.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COWBERRY_JELLY_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cowberry_jelly_sandwich.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHEESECAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cheesecake.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLUEBERRY_PANCAKES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_blueberry_pancakes.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLUEBERRY_JELLY_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_blueberry_jelly_sandwich.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHICKEN_POT_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chicken_pot_pie.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHICKEN_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chicken_sandwich.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STRAWBERRY_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_strawberry_pie.png"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRAPE_JELLY_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_grape_jelly_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHEESEBURGER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cheeseburger"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHOCOLATE_STRAWBERRY"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chocolate_strawberry"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "JAMMY_DODGER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_jammy_dodger"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "EGG_SALAD"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_egg_salad"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FISH_TACO"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_fish_taco"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "POPCORN"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_popcorn"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRAPE_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_grape_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHERRY_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cherry_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GARLIC_BREAD"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_garlic_bread"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PLUM_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_plum_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SALTY_POPCORN"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_salty_popcorn"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHICKEN_CURRY"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chicken_curry"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "OAK_APPLE_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_oak_apple_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STRAWBERRY_JELLY_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_strawberry_jelly_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "POMEGRANATE_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_pomegranate_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLUEBERRY_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_blueberry_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEAFY_FISH_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_leafy_fish_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHICKEN_BURRITO"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chicken_burrito"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CRANBERRY_JELLY_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cranberry_jelly_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TIRAMISU_WITH_RASPBERRIES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_tiramisu_with_raspberries"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELDERBERRY_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_elderberry_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CREAMED_CORN"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_creamed_corn"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLACKBERRY_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_blackberry_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PEAR_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_pear_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BAGEL"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_bagel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GARLIC_CHEESE_BREAD"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_garlic_cheese_bread"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CREAM_COOKIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cream_cookie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEMON_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_lemon_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COWBERRY_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cowberry_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BACON"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_bacon"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "APPLE_PEAR_CAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_apple_pear_cake"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHOCOLATE_BAR"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chocolate_bar"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BBQ_BACON_WRAPPED_HOT_DOG"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_bbq_bacon_wrapped_hot_dog"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHOCOLATE_PEAR_CAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chocolate_pear_cake"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SWEET_BERRY_PANCAKES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_sweet_berry_pancakes"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHICKEN_CHEESEBURGER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chicken_cheeseburger"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LASAGNA"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_lasagna"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SWEETENED_PEAR_CHEESECAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_sweetened_pear_cheesecake"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BACON_CHEESEBURGER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_bacon_cheeseburger"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHERRY_CHEESECAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cherry_cheesecake"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLUEBERRY_CHEESECAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_blueberry_cheesecake"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORANGE_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_orange_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RASPBERRY_JELLY_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_raspberry_jelly_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PUMPKIN_CHEESECAKE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_pumpkin_cheesecake"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRILLED_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_grilled_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TIRAMISU_WITH_BLACKBERRIES"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_tiramisu_with_blackberries"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TIRAMISU"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_tiramisu"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PEACH_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_peach_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LIME_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_lime_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FISH_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_fish_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BISCUITS_GRAVY"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_biscuits_and_country_gravy"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CRANBERRY_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_cranberry_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TACO"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_taco"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HOT_DOG"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_hot_dog"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BOSTON_CREAM_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_boston_cream_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BURRITO"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_burrito"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RASPBERRY_PIE"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_raspberry_pie"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ICE_CREAM"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_ice_cream"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HAMBURGER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_hamburger"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PUMPKIN_BREAD"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_pumpkin_bread"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TOMATO_SOUP"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_tomato_soup"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PUMPKIN_MUFFIN"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_pumpkin_muffin"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BACON_BURGER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_bacon_burger"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "POTATO_SALAD"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_potato_salad"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRAPE_SALAD"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_grape_salad"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STREET_TACO"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_street_taco"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLACKBERRY_JELLY_SANDWICH"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_blackberry_jelly_sandwich"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BISCUIT"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_biscuit"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHICKEN_BURGER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chickenburger"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLACKBERRY_COBBLER"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_blackberry_cobbler"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHOCOLATE_CHIP_MUFFIN"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_chocolate_chip_muffin"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COCONUT_CHICKEN_CURRY"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_coconut_chicken_curry"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "AMBER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimy_tree_taps_amber"
+    }
+  ]
+}

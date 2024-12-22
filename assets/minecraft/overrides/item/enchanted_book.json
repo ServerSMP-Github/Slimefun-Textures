@@ -1,0 +1,54 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TOME_OF_KNOWLEDGE_SHARING"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_knowledge_tome"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_guide_mode": "CHEAT_MODE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gui_default_slimefun_cheat"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_guide_mode": "SURVIVAL_MODE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gui_default_slimefun_guide"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "_UI_BACK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gui_default_back"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Ender Flame"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

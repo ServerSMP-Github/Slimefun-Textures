@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/magical_armor_boots_of_the_stomper_armor"
+  }
+}

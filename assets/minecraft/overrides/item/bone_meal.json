@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "INFERNAL_BONEMEAL"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_infernal_bonemeal"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SILICON"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_silicon"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_RAINBOW"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_rainbow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLANK_RUNE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_blank"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_SOULBOUND"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_soulbound"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_FIRE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_fire"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_EARTH"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_earth"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_WATER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_water"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_ENCHANTMENT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_enchantment"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_ENDER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_ender"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_LIGHTNING"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_lightning"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_AIR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_air"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RUBBER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimy_tree_taps_rubber"
+    }
+  ]
+}

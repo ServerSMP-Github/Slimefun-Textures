@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SEISMIC_AXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_seismic_axe"
+    }
+  ]
+}

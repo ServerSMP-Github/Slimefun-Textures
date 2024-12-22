@@ -1,0 +1,84 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGIC_LUMP_3"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_magical_lump3"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGIC_LUMP_1"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_magical_lump"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGIC_LUMP_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_magical_lump2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_LUMP_3"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_ender_lump3"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_LUMP_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_ender_lump2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENDER_LUMP_1"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_ender_lump"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGIC_LUMP_5"
+          }
+        }
+      },
+      "model": "minecraft:item/foxy_machines_materials_magical_lump5"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGIC_LUMP_4"
+          }
+        }
+      },
+      "model": "minecraft:item/foxy_machines_materials_magical_lump4"
+    }
+  ]
+}

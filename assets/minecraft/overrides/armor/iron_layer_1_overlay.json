@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ARMORED_JETBOOTS"
+          }
+        }
+      },
+      "texture": "textures/models/armor/slimefun_technical_gadgets_jet_boots_armored_armor"
+    }
+  ]
+}

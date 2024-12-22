@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ARMOR_FORGE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_armor_forge"
+    }
+  ]
+}

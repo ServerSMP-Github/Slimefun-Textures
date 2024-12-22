@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/exotic_garden_food_bbq_bacon_wrapped_hot_dog"
+  }
+}

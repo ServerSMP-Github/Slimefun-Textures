@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_TRIDENT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_soulbound_trident"
+    }
+  ]
+}

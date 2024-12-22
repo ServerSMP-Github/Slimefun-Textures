@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SULFATE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_sulfate"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_gold_dust"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COPPER_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_copper_dust"
+    }
+  ]
+}

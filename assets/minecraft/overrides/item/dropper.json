@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "IGNITION_CHAMBER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_automatic_ignition_chamber"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BROKEN_SPAWNER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_broken_spawner_item"
+    }
+  ]
+}

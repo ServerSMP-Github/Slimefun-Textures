@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HEATED_PRESSURE_CHAMBER_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_heated_pressure_chamber2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HEATED_PRESSURE_CHAMBER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_heated_pressure_chamber"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HARDENED_GLASS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_hardened_glass"
+    }
+  ]
+}

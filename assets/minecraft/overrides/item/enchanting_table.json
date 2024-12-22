@@ -1,0 +1,64 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "AUTO_ENCHANTER_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_auto_enchanter2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "AUTO_DISENCHANTER_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_auto_disenchanter2"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "AUTO_ENCHANTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_auto_enchanter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "AUTO_DISENCHANTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_auto_disenchanter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_ALTAR"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_ancient_altar"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Chunk Loader"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

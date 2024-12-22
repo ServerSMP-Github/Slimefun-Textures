@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RAINBOW_GLASS"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_rainbow_glass"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NTW_BRIDGE"
+          }
+        }
+      },
+      "model": "minecraft:item/networks_network_bridge"
+    }
+  ]
+}

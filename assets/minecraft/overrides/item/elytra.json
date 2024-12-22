@@ -1,0 +1,46 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_ELYTRA"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_elytra_soulbound_elytra"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "INFUSED_ELYTRA"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_elytra_infused_elytra"
+    },
+    {
+      "predicate": {
+        "durability": 1,
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_ELYTRA"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_elytra_soulbound_broken_elytra"
+    },
+    {
+      "predicate": {
+        "durability": 1,
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "INFUSED_ELYTRA"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_elytra_infused_broken_elytra"
+    }
+  ]
+}

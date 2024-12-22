@@ -1,0 +1,64 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_PEDESTAL"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_ancient_pedestal"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANDROID_INTERFACE_FUEL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_interface_fuel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANDROID_INTERFACE_ITEMS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_android_interface_items"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRIND_STONE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_grind_stone"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLOCK_PLACER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_block_placer"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORE_CRUSHER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_ore_crusher"
+    }
+  ]
+}

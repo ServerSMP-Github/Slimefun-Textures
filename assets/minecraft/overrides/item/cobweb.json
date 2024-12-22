@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Electronic Circuit"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Advanced Circuit"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

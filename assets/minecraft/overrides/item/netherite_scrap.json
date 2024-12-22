@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:MagSteel Plate"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

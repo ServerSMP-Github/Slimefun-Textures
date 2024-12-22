@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CORN_ON_THE_COB"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_food_corn_on_the_cob"
+    }
+  ]
+}

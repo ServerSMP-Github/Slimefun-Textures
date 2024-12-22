@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BOOTS_OF_THE_STOMPER"
+          }
+        }
+      },
+      "texture": "textures/models/armor/magical_armor_boots_of_the_stomper_armor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PARACHUTE"
+          }
+        }
+      },
+      "texture": "textures/models/armor/slimefun_technical_gadgets_parachute_armor"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NIGHT_VISION_GOGGLES"
+          }
+        }
+      },
+      "texture": "textures/models/armor/slimefun_technical_gadgets_night_vision_goggles_armor"
+    }
+  ]
+}

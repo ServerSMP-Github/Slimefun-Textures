@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FLASK_OF_KNOWLEDGE"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_knowledge_flask"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "JUICER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_juicer"
+    }
+  ]
+}

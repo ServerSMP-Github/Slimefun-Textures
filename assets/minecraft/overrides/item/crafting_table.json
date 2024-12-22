@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHARGING_BENCH"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_charging_bench"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ENHANCED_CRAFTING_TABLE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_enhanced_crafting_table"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGIC_WORKBENCH"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_magic_workbench"
+    }
+  ]
+}

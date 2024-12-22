@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:UU-Matter Recipes"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:UU-Matter"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

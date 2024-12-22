@@ -1,0 +1,204 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_12K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_12"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_10K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_10"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_22K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_22"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_20K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_20"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_8K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_8"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_14K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_14"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_16K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_16"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_6K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_6"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_18K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_18"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_4K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_4"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_24K"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_gold_ingots_gold_ingot_24"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ALUMINUM_BRASS_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_aluminum_brass_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CORINTHIAN_BRONZE_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_corinthian_bronze_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ALUMINUM_BRONZE_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_aluminum_bronze_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BRASS_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_brass_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GILDED_IRON"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_gilded_iron"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLISTERING_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_radioactive_materials_blistering_ingot_33"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLISTERING_INGOT_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_radioactive_materials_blistering_ingot_66"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLISTERING_INGOT_3"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_radioactive_materials_blistering_ingot_100"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Machine Circuit"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

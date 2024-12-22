@@ -1,0 +1,22 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "CustomModelData": "6969"
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "_UI_BACKGROUND"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gui_default_pane_gray"
+    }
+  ]
+}

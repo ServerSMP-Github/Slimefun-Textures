@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_ACTIVATION_DEVICE_SHARED"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_activation_device_shared"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELEVATOR_PLATE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_elevator_plate"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_ACTIVATION_DEVICE_PERSONAL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_activation_device_personal"
+    }
+  ]
+}

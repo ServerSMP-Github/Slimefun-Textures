@@ -1,0 +1,64 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PICKAXE_OF_VEIN_MINING"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_vein_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PICKAXE_OF_THE_SEEKER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_seeker_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SMELTERS_PICKAXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_smelter_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "EXPLOSIVE_PICKAXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_explosive_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_PICKAXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_soulbound_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ADVANCED_INDUSTRIAL_MINER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_advanced_industrial_miner"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STAFF_ELEMENTAL_STORM"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_storm_staff"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STAFF_ELEMENTAL_WIND"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_wind_staff"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STAFF_ELEMENTAL"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_elemental_staff"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STAFF_ELEMENTAL_WATER"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_water_staff"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STAFF_ELEMENTAL_FIRE"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_fire_staff"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRANDMAS_WALKING_STICK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_grandmas_walking_stick"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SPLINT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_splint"
+    }
+  ]
+}

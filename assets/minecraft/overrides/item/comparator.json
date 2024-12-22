@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "*": "_UI_MENU"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_24K_BLOCK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_gold_block_carat_24"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Gold Singularity"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

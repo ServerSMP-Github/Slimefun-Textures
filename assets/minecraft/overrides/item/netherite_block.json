@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Netherite Singularity"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

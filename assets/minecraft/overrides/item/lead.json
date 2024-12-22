@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRAPPLING_HOOK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_grappling_hook"
+    }
+  ]
+}

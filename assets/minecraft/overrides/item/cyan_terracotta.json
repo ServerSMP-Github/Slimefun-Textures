@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Wireless Charger"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

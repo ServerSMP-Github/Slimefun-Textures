@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_MARKER_TOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_gps_marker"
+    }
+  ]
+}

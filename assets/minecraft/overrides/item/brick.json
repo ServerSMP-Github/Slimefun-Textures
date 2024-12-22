@@ -1,0 +1,54 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "REDSTONE_ALLOY"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_redstone_alloy_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BRONZE_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_bronze_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COPPER_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_copper_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Adamantite"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:MagSteel"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

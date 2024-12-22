@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GOLD_PAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_gold_pan"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NETHER_GOLD_PAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_nether_gold_pan"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "AUTOMATED_PANNING_MACHINE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_automated_panning_machine"
+    }
+  ]
+}

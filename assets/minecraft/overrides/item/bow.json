@@ -1,0 +1,44 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ICY_BOW"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_icy_bow_icy_bow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "EXPLOSIVE_BOW"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_explosive_bow_explosive_bow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_BOW"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_soulbound_bow_soulbound_bow"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Sky Piercer"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGICAL_GLASS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_magical_glass"
+    }
+  ]
+}

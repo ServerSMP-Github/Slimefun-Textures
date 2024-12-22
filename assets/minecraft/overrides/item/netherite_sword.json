@@ -1,0 +1,44 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLADE_OF_VAMPIRES"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_blade_of_vampires_netherite_blade_of_vampires"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_SWORD"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_soulbound_sword_netherite_soulbound_sword"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SUPREME_SWORD_SUPREME"
+          }
+        }
+      },
+      "model": "minecraft:item/supreme_weapons_supreme_sword"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Blade Of The Cosmos"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

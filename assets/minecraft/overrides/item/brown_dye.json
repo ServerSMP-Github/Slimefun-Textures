@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STICKY_RESIN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimy_tree_taps_sticky_resin"
+    }
+  ]
+}

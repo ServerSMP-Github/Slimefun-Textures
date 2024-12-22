@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LUMBER_AXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_lumber_axe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_AXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_soulbound_axe"
+    }
+  ]
+}

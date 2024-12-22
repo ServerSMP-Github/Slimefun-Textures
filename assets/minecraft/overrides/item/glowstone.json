@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "CustomModelData": "6969"
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

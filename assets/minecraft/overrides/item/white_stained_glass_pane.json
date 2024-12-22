@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RAINBOW_GLASS_PANE"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_rainbow_glass_pane"
+    }
+  ]
+}

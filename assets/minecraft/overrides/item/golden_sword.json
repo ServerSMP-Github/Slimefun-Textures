@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLADE_OF_VAMPIRES"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_weapons_blade_of_vampires_blade_of_vampires"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Gilded Iron Sword"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RAINBOW_GLAZED_TERRACOTTA"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_rainbow_glazed_terracotta"
+    }
+  ]
+}

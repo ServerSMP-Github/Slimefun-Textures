@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BASIC_CIRCUIT_BOARD"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_basic_board"
+    }
+  ]
+}

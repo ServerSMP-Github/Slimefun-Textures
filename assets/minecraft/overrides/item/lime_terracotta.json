@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Energy Receiver"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

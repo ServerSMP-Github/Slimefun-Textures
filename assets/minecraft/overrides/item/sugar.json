@@ -1,0 +1,104 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGNESIUM_SALT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_valuables_magnesium_salt"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TIN_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_tin_dust"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ZINC_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_zinc_dust"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGNESIUM_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_magnesium_dust"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SILVER_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_silver_dust"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ALUMINUM_DUST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_dusts_aluminum_dust"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SALT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_salt"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WHEAT_FLOUR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_wheat_flour"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGIC_SUGAR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_food_magic_sugar"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CORNMEAL"
+          }
+        }
+      },
+      "model": "minecraft:item/exotic_garden_miscellaneous_cornmeal"
+    }
+  ]
+}

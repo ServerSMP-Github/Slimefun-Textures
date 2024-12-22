@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PRESSURE_CHAMBER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_pressure_chamber"
+    }
+  ]
+}

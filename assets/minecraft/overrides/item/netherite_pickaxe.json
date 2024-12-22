@@ -1,0 +1,44 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "EXPLOSIVE_PICKAXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_netherite_explosive_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_PICKAXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_netherite_soulbound_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SUPREME_PICKAXE_SUPREME"
+          }
+        }
+      },
+      "model": "minecraft:item/supreme_tools_supreme_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:World Breaker"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

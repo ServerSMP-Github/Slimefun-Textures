@@ -1,0 +1,54 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOLAR_GENERATOR_4"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_energized_solar_generator"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOLAR_GENERATOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_solar_generator"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOLAR_GENERATOR_2"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_advanced_solar_generator"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOLAR_GENERATOR_3"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_carbonado_solar_generator"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOLAR_PANEL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_photovoltaic_cell"
+    }
+  ]
+}

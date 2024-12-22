@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RABBIT_JERKY"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_food_rabbit_jerky"
+    }
+  ]
+}

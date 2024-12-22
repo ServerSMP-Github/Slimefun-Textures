@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGIC_EYE_OF_ENDER"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_magic_ender_eye"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "OUTPUT_CHEST"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_output_chest"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "_UI_SEARCH"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gui_default_search"
+    }
+  ]
+}

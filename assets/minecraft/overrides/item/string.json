@@ -1,0 +1,44 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COPPER_WIRE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_copper_wire"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHAIN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_chain"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Copper Cable"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Uninsulated Copper Cable"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

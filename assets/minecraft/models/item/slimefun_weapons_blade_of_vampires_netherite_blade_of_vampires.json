@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slimefun_weapons_blade_of_vampires_netherite_blade_of_vampires"
+  }
+}

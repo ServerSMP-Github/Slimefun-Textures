@@ -1,0 +1,134 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PLASTIC_SHEET"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_plastic_sheet"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "REINFORCED_CLOTH"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_reinforced_cloth"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SCROLL_OF_DIMENSIONAL_TELEPOSITION"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_dimensional_scroll"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "REINFORCED_PLATE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_reinforced_plate"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CLOTH"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_cloth"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STEEL_PLATE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_steel_plate"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BANDAGE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_bandage"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RAG"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_rag"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGICAL_BOOK_COVER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_magical_book_cover"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Advanced Alloy"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Iridium Plate"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Machine Plate"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RAW_PLASTIC"
+          }
+        }
+      },
+      "model": "minecraft:item/slimy_tree_taps_raw_plastic"
+    }
+  ]
+}

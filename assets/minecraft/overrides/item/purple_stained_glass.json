@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GPS_TELEPORTER_PYLON"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gps_teleporter_pylon"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WITHER_PROOF_GLASS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_wither_proof_glass"
+    }
+  ]
+}

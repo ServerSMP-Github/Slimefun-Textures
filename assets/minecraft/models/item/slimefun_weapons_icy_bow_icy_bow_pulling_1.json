@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slimefun_weapons_icy_bow_icy_bow_pulling_1"
+  }
+}

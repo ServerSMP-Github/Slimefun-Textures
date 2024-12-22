@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HOOK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_hook"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "*": "NTW_TRASH"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

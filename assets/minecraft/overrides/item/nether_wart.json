@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGICAL_ZOMBIE_PILLS"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_magical_zombie_pills"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "VITAMINS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_useful_items_vitamins"
+    }
+  ]
+}

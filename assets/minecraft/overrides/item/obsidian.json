@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WITHER_ASSEMBLER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_wither_assembler"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WITHER_PROOF_OBSIDIAN"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_technical_components_wither_proof_obsidian"
+    }
+  ]
+}

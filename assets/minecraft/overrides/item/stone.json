@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Triple Compressed Cobblestone"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Quadruple Compressed Cobblestone"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COMPOSTER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_composter"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CRUCIBLE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_crucible"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORE_WASHER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_ore_washer"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "KITCHEN_TMP"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

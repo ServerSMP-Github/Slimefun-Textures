@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HEAVY_CREAM"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_miscellaneous_heavy_cream"
+    }
+  ]
+}

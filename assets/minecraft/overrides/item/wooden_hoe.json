@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CROOK"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_crook"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TREE_TAP"
+          }
+        }
+      },
+      "model": "minecraft:item/slimy_tree_taps_tree_taps_normal"
+    }
+  ]
+}

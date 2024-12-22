@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Cargo Configurator"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

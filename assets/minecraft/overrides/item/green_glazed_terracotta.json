@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NTW_CAPACITOR_2"
+          }
+        }
+      },
+      "model": "minecraft:item/networks_capacitor_2"
+    }
+  ]
+}

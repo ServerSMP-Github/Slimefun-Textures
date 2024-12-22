@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAKESHIFT_SMELTERY"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_makeshift_smeltery"
+    }
+  ]
+}

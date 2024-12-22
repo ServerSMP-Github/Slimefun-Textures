@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PICKAXE_OF_CONTAINMENT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_pickaxe_of_containment"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COBALT_PICKAXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_cobalt_pickaxe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HERCULES_PICKAXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_hercules_pickaxe"
+    }
+  ]
+}

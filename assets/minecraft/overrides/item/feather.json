@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELYTRA_SCALE"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_elytra_scale"
+    }
+  ]
+}

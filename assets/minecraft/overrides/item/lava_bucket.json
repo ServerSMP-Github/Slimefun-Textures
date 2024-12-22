@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BUCKET_OF_BLOOD"
+          }
+        }
+      },
+      "model": "minecraft:item/foxy_machines_materials_bucket_of_blood"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "REFINERY"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_energy_refinery"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COMPRESSOR"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_compressor"
+    }
+  ]
+}

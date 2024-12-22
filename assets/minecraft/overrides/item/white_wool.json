@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RAINBOW_WOOL"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_rainbow_wool"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "iregex:(.*: 1.*)"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

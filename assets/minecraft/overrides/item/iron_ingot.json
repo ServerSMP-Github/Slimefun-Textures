@@ -1,0 +1,224 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "MAGNESIUM_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_magnesium_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COBALT_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_cobalt_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "HARDENED_METAL_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_hardened_metal"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SILVER_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_silver_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DURALUMIN_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_duralumin_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "NICKEL_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_nickel_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ZINC_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_zinc_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DAMASCUS_STEEL_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_damascus_steel_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOLDER_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_solder_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "FERROSILICON"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_ferrosilicon"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ALUMINUM_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_aluminum_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BILLON_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_billon_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TIN_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_tin_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEAD_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_lead_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STEEL_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_steel_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "REINFORCED_ALLOY_INGOT"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_resources_ingots_reinforced_alloy"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Refined Iron"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Mixed Metal Ingot"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Mag-Thor"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Titanium"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Mythril"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Infinity Ingot"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

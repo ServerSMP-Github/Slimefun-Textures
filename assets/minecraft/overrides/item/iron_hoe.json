@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "REINFORCED_TREE_TAP"
+          }
+        }
+      },
+      "model": "minecraft:item/slimy_tree_taps_tree_taps_reinforced"
+    }
+  ]
+}

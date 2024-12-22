@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "INFUSED_HOPPER"
+          }
+        }
+      },
+      "model": "minecraft:item/magical_gadgets_infused_hopper"
+    }
+  ]
+}

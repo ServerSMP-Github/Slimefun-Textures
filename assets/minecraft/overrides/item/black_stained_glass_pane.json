@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "_UI_NEXT_INACTIVE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gui_default_next_off"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "_UI_PREVIOUS_INACTIVE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_gui_default_previous_off"
+    }
+  ]
+}

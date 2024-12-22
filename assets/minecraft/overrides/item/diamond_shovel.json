@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "EXPLOSIVE_SHOVEL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_explosive_shovel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_SHOVEL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_soulbound_shovel"
+    }
+  ]
+}

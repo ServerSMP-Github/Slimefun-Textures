@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "*": "NTW_CAPACITOR_1"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

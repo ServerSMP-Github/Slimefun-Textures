@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_AXE"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_netherite_soulbound_axe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SUPREME_AXE_SUPREME"
+          }
+        }
+      },
+      "model": "minecraft:item/supreme_tools_supreme_axe"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Nature's Ruin"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

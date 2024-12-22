@@ -1,0 +1,44 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "EXPLOSIVE_SHOVEL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_netherite_explosive_shovel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SOULBOUND_SHOVEL"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_tools_netherite_soulbound_shovel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "SUPREME_SHOVEL_SUPREME"
+          }
+        }
+      },
+      "model": "minecraft:item/supreme_tools_supreme_shovel"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Name": "ipattern:Mountain Eater"
+          }
+        }
+      },
+      "model": "minecraft:item/"
+    }
+  ]
+}

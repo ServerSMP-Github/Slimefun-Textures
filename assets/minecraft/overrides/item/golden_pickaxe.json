@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "INDUSTRIAL_MINER"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_basic_machines_industrial_miner"
+    }
+  ]
+}
