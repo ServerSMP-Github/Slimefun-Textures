@@ -1458,7 +1458,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/dyed_backpacks_gilded_yellow"
     },
     {
       "predicate": {
@@ -1468,7 +1468,7 @@
           }
         }
       },
-      "model": "minecraft:item/dyed_backpacks_gilded_yellow"
+      "model": "minecraft:item/dyed_backpacks_gilded_pink"
     },
     {
       "predicate": {

@@ -8,7 +8,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/infinityexpansion_materials_materials2_single_compressed_cobblestone"
     },
     {
       "predicate": {
@@ -18,7 +18,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/infinityexpansion_materials_materials2_double_compressed_cobblestone"
     }
   ]
 }

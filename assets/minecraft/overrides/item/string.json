@@ -28,7 +28,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/litexpansion_copper_cable"
     },
     {
       "predicate": {
@@ -38,7 +38,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/litexpansion_uninsulated_copper_cable"
     }
   ]
 }

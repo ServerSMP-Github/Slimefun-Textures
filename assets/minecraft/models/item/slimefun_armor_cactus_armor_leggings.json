@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slimefun_armor_cactus_armor_leggings"
+  }
+}

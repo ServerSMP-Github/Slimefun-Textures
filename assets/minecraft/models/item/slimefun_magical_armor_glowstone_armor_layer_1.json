@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slimefun_magical_armor_glowstone_armor_layer_1"
+  }
+}

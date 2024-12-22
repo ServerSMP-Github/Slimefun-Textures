@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/extra_gear_swords_gilded_iron_gilded_iron_sword"
+  }
+}

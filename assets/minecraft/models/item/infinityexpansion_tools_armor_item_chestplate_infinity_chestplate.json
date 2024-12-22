@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/infinityexpansion_tools_armor_item_chestplate_infinity_chestplate"
+  }
+}

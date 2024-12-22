@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slimefun_magical_armor_slime_armor_steel_netherite_leggings"
+  }
+}

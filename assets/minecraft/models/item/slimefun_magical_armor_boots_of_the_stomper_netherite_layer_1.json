@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slimefun_magical_armor_boots_of_the_stomper_netherite_layer_1"
+  }
+}

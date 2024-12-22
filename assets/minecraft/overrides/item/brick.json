@@ -38,7 +38,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/infinityexpansion_materials_adamantite"
     },
     {
       "predicate": {
@@ -48,7 +48,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/infinityexpansion_materials_magsteel"
     }
   ]
 }

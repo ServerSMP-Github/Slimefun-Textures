@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/infinityexpansion_tools_sky_piercer_sky_piercer_e"
+  }
+}

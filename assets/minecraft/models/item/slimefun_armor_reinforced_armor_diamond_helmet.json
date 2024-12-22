@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slimefun_armor_reinforced_armor_diamond_helmet"
+  }
+}

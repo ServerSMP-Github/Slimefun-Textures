@@ -8,7 +8,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/litexpansion_cargo_configurator"
     }
   ]
 }

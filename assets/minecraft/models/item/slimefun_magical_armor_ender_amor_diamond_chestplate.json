@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slimefun_magical_armor_ender_amor_diamond_chestplate"
+  }
+}

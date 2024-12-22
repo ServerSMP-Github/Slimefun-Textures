@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/extra_gear_armor_cobalt_cobalt_layer_1"
+  }
+}

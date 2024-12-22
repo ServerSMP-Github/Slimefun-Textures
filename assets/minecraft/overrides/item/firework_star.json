@@ -114,6 +114,16 @@
       "predicate": {
         "nbt": {
           "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ANCIENT_RUNE_VILLAGERS"
+          }
+        }
+      },
+      "model": "minecraft:item/slimefun_magical_items_rune_villager"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "PublicBukkitValues": {
             "slimefun:slimefun_item": "RUBBER"
           }
         }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/extra_gear_swords_hardened_hardened_sword"
+  }
+}
