@@ -4,11 +4,11 @@
       "predicate": {
         "nbt": {
           "PublicBukkitValues": {
-            "*": "_UI_MENU"
+            "slimefun:slimefun_item": "_UI_MENU"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/slimefun_gui_default_menu"
     }
   ]
 }
