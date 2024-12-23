@@ -1,0 +1,45 @@
+name: Create Release
+
+on: 
+  push:
+    branches: ["chime"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Archive Release (light)
+      uses: thedoctor0/zip-release@0.7.6
+      with:
+        type: 'zip'
+        filename: 'slimefun-textures-light.zip'
+        exclusions: '*.git* *slimefun-textures-dark.zip'
+
+    - name: Replace models
+      run: |
+        find ./assets/minecraft/overrides/item -type f -exec sed -i \
+        -e 's/slimefun_gui_default_search/slimefun_gui_default_dark_search/g' \
+        -e 's/slimefun_gui_default_next_on/slimefun_gui_default_dark_previous_on/g' \
+        -e 's/slimefun_gui_default_previous_on/slimefun_gui_default_dark_previous_on/g' \
+        -e 's/slimefun_gui_default_next_off/slimefun_gui_default_dark_next_off/g' \
+        -e 's/slimefun_gui_default_previous_off/slimefun_gui_default_dark_previous_off/g' \
+        -e 's/slimefun_gui_default_pane_gray/slimefun_gui_default_dark_pane_gray/g' \
+        -e 's/slimefun_gui_default_menu/slimefun_gui_default_dark_menu/g' {} +
+
+    - name: Archive Release (dark)
+      uses: thedoctor0/zip-release@0.7.6
+      with:
+        type: 'zip'
+        filename: 'slimefun-textures-dark.zip'
+        exclusions: '*.git* *slimefun-textures-light.zip'
+
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "slimefun-textures-light.zip,slimefun-textures-dark.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
+        replacesArtifacts: true
+        prerelease: true
+        tag: chime
