@@ -58,7 +58,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/slimefun_energy_medium_energy_capacitor"
     },
     {
       "predicate": {
@@ -2398,7 +2398,7 @@
           }
         }
       },
-      "model": "minecraft:item/electric_spawners_whitch"
+      "model": "minecraft:item/electric_spawners_witch"
     },
     {
       "predicate": {
@@ -3098,7 +3098,7 @@
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_food_blt"
     },
     {
       "predicate": {
@@ -3288,7 +3288,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_bacon_sandwich.png"
+      "model": "minecraft:item/exotic_garden_food_bacon_sandwich"
     },
     {
       "predicate": {
@@ -3298,7 +3298,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_dragon_fruit_pie.png"
+      "model": "minecraft:item/exotic_garden_food_dragon_fruit_pie"
     },
     {
       "predicate": {
@@ -3308,7 +3308,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_strawberry_salad.png"
+      "model": "minecraft:item/exotic_garden_food_strawberry_salad"
     },
     {
       "predicate": {
@@ -3318,7 +3318,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_tiramisu_with_strawberries.png"
+      "model": "minecraft:item/exotic_garden_food_tiramisu_with_strawberries"
     },
     {
       "predicate": {
@@ -3328,7 +3328,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_cowberry_jelly_sandwich.png"
+      "model": "minecraft:item/exotic_garden_food_cowberry_jelly_sandwich"
     },
     {
       "predicate": {
@@ -3338,7 +3338,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_cheesecake.png"
+      "model": "minecraft:item/exotic_garden_food_cheesecake"
     },
     {
       "predicate": {
@@ -3348,7 +3348,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_blueberry_pancakes.png"
+      "model": "minecraft:item/exotic_garden_food_blueberry_pancakes"
     },
     {
       "predicate": {
@@ -3358,7 +3358,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_blueberry_jelly_sandwich.png"
+      "model": "minecraft:item/exotic_garden_food_blueberry_jelly_sandwich"
     },
     {
       "predicate": {
@@ -3368,7 +3368,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_chicken_pot_pie.png"
+      "model": "minecraft:item/exotic_garden_food_chicken_pot_pie"
     },
     {
       "predicate": {
@@ -3378,7 +3378,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_chicken_sandwich.png"
+      "model": "minecraft:item/exotic_garden_food_chicken_sandwich"
     },
     {
       "predicate": {
@@ -3388,7 +3388,7 @@
           }
         }
       },
-      "model": "minecraft:item/exotic_garden_food_strawberry_pie.png"
+      "model": "minecraft:item/exotic_garden_food_strawberry_pie"
     },
     {
       "predicate": {

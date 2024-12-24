@@ -22,23 +22,19 @@
     },
     {
       "predicate": {
-        "nbt": {
-          "display": {
-            "Name": "ipattern:ExtraGear"
-          }
-        }
+        "name": "ExtraGear"
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/extra_gear_extra_gear"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:Nano Blade"
+          "PublicBukkitValues": {
+            "Name": "SOULBOUND_SWORD"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/litexpansion_nano_blade"
     }
   ]
 }

@@ -73,392 +73,392 @@
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:Dragon Fruit Juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "DRAGON_FRUIT_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_dragon_fruit_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:thai tea"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "THAI_TEA"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_thai_tea"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:wine"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "WINE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_wine"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:cherry iced tea"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHERRY_ICED_TEA"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_cherry_iced_tea"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:cranberry smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CRANBERRY_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_cranberry_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:raspberry smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RASPBERRY_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_raspberry_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:blueberry juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLUEBERRY_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_blueberry_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:Blueberry smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLUEBERRY_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_blueberry_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:tomato juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "TOMATO_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_tomato_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:raspberry iced tea"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RASPBERRY_ICED_TEA"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_raspberry_iced_tea"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:raspberry juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "RASPBERRY_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_raspberry_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:strawberry smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STRAWBERRY_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_strawberry_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:pomegranate juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "POMEGRANATE_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_pomegranate_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:pear juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PEAR_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_pear_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:\\u00a7cgrape smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRAPE_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_grape_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:peach juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PEACH_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_peach_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:cowberry smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COWBERRY_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_cowberry_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:pineapple juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PINEAPPLE_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_pineapple_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:lime smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LIME_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_lime_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:\\u00a7elemon juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEMON_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_lemon_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:peach iced tea"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PEACH_ICED_TEA"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_peach_iced_tea"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:strawberry iced tea"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STRAWBERRY_ICED_TEA"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_strawberry_iced_tea"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:cowberry juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COWBERRY_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_cowberry_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:blackberry juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLACKBERRY_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_blackberry_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:elderberry smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELDERBERRY_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_elderberry_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:cranberry juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CRANBERRY_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_cranberry_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:strawberry juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "STRAWBERRY_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_strawberry_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:grape juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "GRAPE_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_grape_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:lime juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LIME_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_lime_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:plum juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PLUM_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_plum_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:lemon iced tea"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEMON_ICED_TEA"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_lemon_ice_tea"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:Cherry Juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "CHERRY_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_cherry_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:elderberry juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ELDERBERRY_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_elderberry_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:blackberry smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "BLACKBERRY_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_blackberry_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:pineapple smoothie"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "PINEAPPLE_SMOOTHIE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_pineapple_smoothie"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:Oak Apple Juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "OAK_APPLE_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_oak_apple_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:orange juice"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "ORANGE_JUICE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_orange_juice"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:coconut milk"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "COCONUT_MILK"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_coconut_milk"
     },
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": "ipattern:lemonade"
+          "PublicBukkitValues": {
+            "slimefun:slimefun_item": "LEMONADE"
           }
         }
       },
-      "model": "minecraft:item/"
+      "model": "minecraft:item/exotic_garden_drinks_lemonade"
     }
   ]
 }
