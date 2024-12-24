@@ -42,4 +42,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         replacesArtifacts: true
         prerelease: true
-        tag: chime
+        tag: chime-${{ github.sha }}
