@@ -1,5 +1,5 @@
 type=item
 matchItems=minecraft:spawner
 model=./zombie
-# nbt.PublicBukkitValues.*=BROKEN_SPAWNER
-nbt.display.Lore.*=Type: Zombie
+# components.minecraft\:custom_data.PublicBukkitValues.*=BROKEN_SPAWNER
+components.minecraft\:lore.*=Type: Zombie

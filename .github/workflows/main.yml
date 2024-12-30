@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v4
 
     - name: Get next version
       uses: fwilhe2/bump-version@main
@@ -19,14 +19,14 @@ jobs:
         component: ${{ secrets.VERSION }}
 
     - name: Archive Release (light)
-      uses: thedoctor0/zip-release@main
+      uses: thedoctor0/zip-release@0.7.6
       with:
         type: 'zip'
         filename: 'slimefun-textures-light.zip'
         exclusions: '*.git* *slimefun-textures-dark.zip /assets/minecraft/optifine/cit/slimefun/gui/default/dark/* /assets/minecraft/optifine/cit/slimefun/gui/cargo/dark/* /assets/minecraft/optifine/cit/networks/gui/dark/*'
 
     - name: Archive Release (dark)
-      uses: thedoctor0/zip-release@main
+      uses: thedoctor0/zip-release@0.7.6
       with:
         type: 'zip'
         filename: 'slimefun-textures-dark.zip'
