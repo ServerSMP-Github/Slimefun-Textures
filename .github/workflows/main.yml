@@ -32,9 +32,16 @@ jobs:
         filename: 'slimefun-textures-dark.zip'
         exclusions: '*.git* *slimefun-textures-light.zip /assets/minecraft/optifine/cit/slimefun/gui/default/light/* /assets/minecraft/optifine/cit/slimefun/gui/cargo/light/* /assets/minecraft/optifine/cit/networks/gui/light/*'
 
+    - name: Archive Release (dark)
+      uses: thedoctor0/zip-release@0.7.6
+      with:
+        type: 'zip'
+        filename: 'slimefun-textures-any.zip'
+        exclusions: '*.git* *slimefun-textures-dark.zip *slimefun-textures-light.zip /assets/minecraft/optifine/cit/slimefun/gui/default/light/* /assets/minecraft/optifine/cit/slimefun/gui/cargo/light/* /assets/minecraft/optifine/cit/networks/gui/light/* /assets/minecraft/optifine/cit/slimefun/gui/default/dark/* /assets/minecraft/optifine/cit/slimefun/gui/cargo/dark/* /assets/minecraft/optifine/cit/networks/gui/dark/*'
+
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "slimefun-textures-light.zip,slimefun-textures-dark.zip"
+        artifacts: "slimefun-textures-light.zip,slimefun-textures-dark.zip,slimefun-textures-any.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: ${{ steps.version.outputs.newVersion }}
